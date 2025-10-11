@@ -18,3 +18,15 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+**Goal description**
+A TODO-List of the project state after the feature is implemented, e.g.
+
+- [ ] There is a `<feature>`-file
+- [ ] The `<feature>`-file contains the implementation of `<feature>`
+- [ ] The feature implementation fulfills the following requirements
+  - [ ] `<requirement-A>` is implemented
+  - [ ] `<requirement-B>` does not occur
+  - [ ] etc.
+- [ ] The feature implementation is called in `<parent-file>`.
+- [ ] etc.
